@@ -1,5 +1,0 @@
-Machine-Learning/
-│── RandomForestClassifier-PimaDataset/
-│   ├── diabetes.csv
-│   ├── RandomForestClassifier.ipynb
-│   ├── README.md
